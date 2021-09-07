@@ -4,7 +4,8 @@ For use with the [Mystical Agriculture](https://www.curseforge.com/minecraft/mc-
 ### How to use:
 - Download the latest .exe file in releases (accessible from the bar on the right)
 - Run the .exe file
-- Success!
+- Insert the number of each essence you want to make
+- Press the Calculate button
 
 ### Gallery
 On startup:
